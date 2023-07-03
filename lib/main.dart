@@ -92,8 +92,8 @@ class _MyAppState extends State<myApp>
               FloatingActionButton(
                 backgroundColor: Colors.teal,
                 onPressed: dividir ,
-                child: Text('/',
-                style: TextStyle(fontSize: 20)),
+                child: Text('÷',
+                style: TextStyle(fontSize: 32)),
               ),
             ],
           )
